@@ -101,7 +101,7 @@ Avg Debt-to-Equity = AVERAGE('Table'[Debt-to-Equity Ratio])
 
 👉 **View Power BI Dashboard:**  
 <p align="center">
-  <a href="https://your-dashboard-link-here.com" target="_blank">
+  <a href="acoounting_data_dashboard.pdf" target="_blank">
     <img src="https://img.shields.io/badge/View-Dashboard-blue?style=for-the-badge">
   </a>
 </p>

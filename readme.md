@@ -100,8 +100,8 @@ Avg Debt-to-Equity = AVERAGE('Table'[Debt-to-Equity Ratio])
 ## 🔗 Interactive Dashboard
 
 👉 **View Power BI Dashboard:**  
-<p align="center">
-  <a href="acoounting_data_dashboard.pdf" target="_blank">
+<p align="leftr">
+  <a href="[acoounting_data_dashboard.pdf](https://github.com/kalpana-da/Finance-Accounting-Data-Analytics/blob/main/acoounting_data_dashboard.pdf)" target="_blank">
     <img src="https://img.shields.io/badge/View-Dashboard-blue?style=for-the-badge">
   </a>
 </p>
@@ -154,7 +154,12 @@ This project demonstrates the ability to:
 
 ## 👤 Author
 **Kalpana**  
-Aspiring Junior Data Analyst | Finance Analytics | Power BI
+ Data Analyst | Finance Analytics | Power BI
+<p align="left">
+  <a href="https://www.linkedin.com/in/skalpana/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-View%20Profile-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
 
 ---
 
@@ -165,5 +170,4 @@ Aspiring Junior Data Analyst | Finance Analytics | Power BI
 
 ---
 
-⭐ *This project is part of a data analytics portfolio focused on finance and accounting domain roles.*
 

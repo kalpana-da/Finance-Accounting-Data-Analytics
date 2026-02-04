@@ -3,7 +3,6 @@
 ## 📌 Project Overview
 This project presents a **financial performance analysis** for a sample accounting & financial services firm (similar to CA / finance BPO organizations). The objective is to analyze **revenue, expenditure, profitability, and financial risk** using Power BI and provide clear, management‑level insights.
 
-The project is designed as a **realistic junior data analyst portfolio project**, focusing on clarity, correct financial logic, and business interpretation rather than complex modeling.
 
 ---
 
